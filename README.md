@@ -10,8 +10,7 @@ This project explores opportunity listings and presents patterns through an inte
 
 ## Dashboard Preview
 
-<!-- Add the dashboard screenshot to this repository using the filename dashboard-screenshot.png. -->
-![Excelerate Opportunity Analytics dashboard](dashboard-screenshot.png)
+![Excelerate Opportunity Analytics dashboard](Screenshot%202026-10-11%20061455.png)
 
 ## Project Objectives
 
